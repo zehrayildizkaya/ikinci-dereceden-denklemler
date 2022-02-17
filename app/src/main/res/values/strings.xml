@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ikinci Dereceden Denklemler</string>
+    <string-array name="spinner">
+        <item>Secenek 1</item>
+        <item>Secenek 2</item>
+    </string-array>
+</resources>

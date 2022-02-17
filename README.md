@@ -1,0 +1,1 @@
+# ikinci-dereceden-denklemler

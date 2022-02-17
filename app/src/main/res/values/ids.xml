@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="b_giris" type="id" />
+    <item name="a_giris" type="id" />
+    <item name="c_giris" type="id" />
+</resources>
